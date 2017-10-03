@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "./node_modules/nodemon/bin/nodemon.js src/app.js",
+    "start": "nodemon src/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -14,6 +14,7 @@
     "body-parser": "^1.18.1",
     "cors": "^2.8.4",
     "express": "^4.15.4",
+    "mongoose": "^4.12.0",
     "morgan": "^1.8.2",
     "nodemon": "^1.12.1"
   }
