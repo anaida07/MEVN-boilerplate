@@ -12,7 +12,7 @@ A fullstack boilerplate with Mongo, ExpressJS, VueJS and NodeJS.
 A skeleton generated with MEVN stack technologies which can be used as a boilerplate for anyone who is starting out. It contains a client template(**VueJS**) and a server template(**NodeJS**, **ExpressJS**) and a connection between them via an API layer.
 
 
-## Running on development machine
+## Setup Development Machine
 1. Clone the repo `git clone git@github.com:anaida07/MEVN-boilerplate.git`
 
 2. `cd MEVN-boilerplate`
