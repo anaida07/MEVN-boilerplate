@@ -36,7 +36,7 @@ The following guidelines for contribution should be followed if you want to subm
 _Notice: You can [turn your previously filed issues into a pull-request here](http://issue2pr.herokuapp.com/)._
 * Even if you have write access to the repository, do not directly push or merge pull-requests. Let another team member review your pull request and approve.
 
-+# Additional Resources
+# Additional Resources
 
 * [General GitHub documentation](http://help.github.com/)
 * [GitHub pull request documentation](https://help.github.com/articles/about-pull-requests/)
