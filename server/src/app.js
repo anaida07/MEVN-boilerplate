@@ -81,3 +81,4 @@ app.get('/post/:id', (req, res) => {
 })
 
 app.listen(process.env.PORT || 8081)
+module.exports = app;
