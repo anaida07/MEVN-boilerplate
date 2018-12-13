@@ -14,12 +14,14 @@ A skeleton generated with MEVN stack technologies which can be used as a boilerp
 3. Open client
 ```
 cd client
+npm install
 npm run dev
 ```
 
 4. Open server
 ```
 cd server
+npm install
 npm start
 ```
 
