@@ -23,4 +23,4 @@ cd server
 npm start
 ```
 
-5. Open `http://localhost:8080` in browser
+5. Open `http://localhost:8080` in browser, if you have a local host server already running try `http://localhost:8081` or `http://localhost:8082`.
